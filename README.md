@@ -29,4 +29,4 @@ This project analyzes retail sales data using Power BI to understand revenue tre
 - Expand in lower-performing regions
 
 ## 📸 Dashboard Preview
-![Dashboard](powerbi_dashboard.png)
+![Dashboard](Screenshot%202026-02-25%20182950.png)
