@@ -1,31 +1,32 @@
 # Retail-Sales-Performance-Analysis-Power-BI
 Build an interactive dashboard that shows revenue trends, customers, products, and regions with clear business insights.
-# Retail Sales Performance Analysis (Power BI)
+
+# Online Retail Dashboard (Power BI)
 
 ## 📊 Project Overview
-This project analyzes retail sales data using Power BI to understand revenue trends, customer behavior, and regional performance.
+This project analyzes retail sales data using Power BI to understand revenue trends, customer behavior, product performance, and regional sales.
 
 ## 🎯 Objectives
 - Analyze monthly revenue trends
-- Identify top customers and regions
-- Evaluate product category performance
+- Identify top countries and customers
+- Evaluate product performance
 - Understand seasonal demand patterns
 
 ## 🛠 Tools Used
 - Power BI
 - DAX Measures
-- Data Cleaning & Modeling
+- Data Modeling
 
 ## 📈 Key Insights
-- Revenue peaks in Q4 indicating seasonal demand
-- Top customers contribute major share of revenue
-- Few regions dominate total sales
-- Customer retention opportunity identified
+- Revenue shows strong growth with peak in Q4
+- Netherlands and Ireland are top-performing regions
+- A small group of customers contributes major revenue
+- Top products drive large sales volume
 
 ## 💡 Business Recommendations
-- Focus marketing during peak months
-- Create loyalty programs for high-value customers
-- Expand in underperforming regions
+- Focus marketing campaigns during peak months
+- Create loyalty programs for top customers
+- Expand in lower-performing regions
 
 ## 📸 Dashboard Preview
 ![Dashboard](powerbi_dashboard.png)
