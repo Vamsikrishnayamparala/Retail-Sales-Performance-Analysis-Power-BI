@@ -28,5 +28,17 @@ This project analyzes retail sales data using Power BI to understand revenue tre
 - Create loyalty programs for top customers
 - Expand in lower-performing regions
 
+- ## 🎓 Certification
+This project is part of the **TATA Forage Virtual Internship – Data Visualisation: Empowering Business with Effective Insights**.
+
+During this program, I completed practical tasks on:
+- Framing business problems
+- Selecting appropriate visualizations
+- Creating interactive dashboards
+- Communicating insights effectively
+
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot%202026-02-25%20182950.png)
+
+📄 [View Certificate](tata_forage_certificate.pdf)
+
